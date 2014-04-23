@@ -1,4 +1,0 @@
-europeana.github.io
-========================
-
-Europeana
